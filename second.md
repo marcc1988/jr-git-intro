@@ -1,1 +1,1 @@
-This is the second file. I changed it into something else.
+*This is all new I love GIT!! This is the second file. I changed it into something else.
